@@ -1,0 +1,12 @@
+.hero {
+  background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)),
+              url('//assets/fondo/fondo-gamer.png') center/cover no-repeat;
+  color: white;
+  min-height: 350px;
+  padding: 100px 0;
+}
+
+button.active {
+  font-weight: bold;
+  text-decoration: underline;
+}
